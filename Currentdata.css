@@ -1,0 +1,15 @@
+.P {
+    width: 1000px;
+}
+
+.S {
+    font-style: normal ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Search {
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 1px;
+    padding: 6px;
+}
